@@ -1,5 +1,7 @@
 ![1646724093635](https://github.com/Sumon1273347/Sumon1273347/assets/146906768/debc7098-7823-443a-8c97-c0ade2eb4556)
 
+![ alt text ](img.shields.io/badge/text-text-#F80000?style=for-the-badge&logo=oracle)
+
 
 ### Hi there 👋, I'm Muhammad Sumon Chowdhury
 #### Oracle Developer
