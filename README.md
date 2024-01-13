@@ -19,16 +19,16 @@ Skills: Oracle (SQL & PL SQL / Forms / Reports / DBA Fundamental),  Oracle Appli
 - 💬 Ask me about Web Application
 
  
-
-Where to find me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sumon1273347)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sumon.chowdhury.3766952/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/muhammadzayed514030/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Muhamma36193807)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon1273347)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumon1273347&show_icons=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sumon1273347) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sumon1273347)
+
+
+Where to find me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sumon1273347)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sumon.chowdhury.3766952/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/muhammadzayed514030/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Muhamma36193807)
 
 
 
