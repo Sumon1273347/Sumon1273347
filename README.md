@@ -1,7 +1,10 @@
 ![1646724093635](https://github.com/Sumon1273347/Sumon1273347/assets/146906768/debc7098-7823-443a-8c97-c0ade2eb4556)
 
-![ alt text ](img.shields.io/badge/oracle-text-F80000?style=for-the-badge&logo=oracle)
-
+![ alt text ](https://img.shields.io/badge/oracle-SQL-F80000?style=for-the-badge&logo=oracle)
+![ alt text ](https://img.shields.io/badge/oracle-PL/SQL-F80000?style=for-the-badge&logo=oracle)
+![ alt text ](https://img.shields.io/badge/oracle-Forms-F80000?style=for-the-badge&logo=oracle)
+![ alt text ](https://img.shields.io/badge/oracle-Reports-F80000?style=for-the-badge&logo=oracle)
+![ alt text ](https://img.shields.io/badge/oracle-APEX-F80000?style=for-the-badge&logo=oracle)
 
 ### Hi there 👋, I'm Muhammad Sumon Chowdhury
 #### Oracle Developer
