@@ -11,7 +11,7 @@
 
 I’m a Oracle developer who is passionate about making error-free web application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Oracle Application Express but some technologies I enjoy working with include Oracle database SQL, PL SQL  as well as Oracle Application Express.
 
-Skills: Oracle (SQL & PL SQL / Forms / Reports / DBA Fundamental),  Oracle Application Express
+Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Application Express
 
 - 🔭 I’m currently working on IsDB-BISEW (As a Trainee) 
 - 🌱 I’m currently learning Oracle Application Express 
