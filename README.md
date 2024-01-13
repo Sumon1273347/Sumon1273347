@@ -6,7 +6,7 @@
 ![ alt text ](https://img.shields.io/badge/oracle-Reports-F80000?style=for-the-badge&logo=oracle)
 ![ alt text ](https://img.shields.io/badge/oracle-APEX-F80000?style=for-the-badge&logo=oracle)
 
-### Hi there 👋, I'm Muhammad Sumon Chowdhury
+### Hi there 😊, I'm Muhammad Sumon Chowdhury
 #### Oracle Developer
 
 I’m a Oracle developer who is passionate about making error-free web application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Oracle Application Express but some technologies I enjoy working with include Oracle database SQL, PL SQL  as well as Oracle Application Express.
