@@ -7,7 +7,7 @@
 ![ alt text ](https://img.shields.io/badge/oracle-Reports-F80000?style=for-the-badge&logo=oracle)
 ![ alt text ](https://img.shields.io/badge/oracle-APEX-F80000?style=for-the-badge&logo=oracle)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon1273347&label=Profile%20views&color=0e75b6&style=flat" alt="sumon1273347" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Sumon Chowdhury</h1>
 <h3 align="center">Oracle Developer</h3>
 
@@ -46,7 +46,7 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sumon1273347&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon1273347&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon1273347&label=Profile%20views&color=0e75b6&style=flat" alt="sumon1273347" /> </p>
+
 
 
 
