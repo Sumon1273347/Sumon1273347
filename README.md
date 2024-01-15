@@ -24,6 +24,15 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 - 💬 Ask me about **Oracle Web Application**
 - 📫 How to reach me **sumonchowdhury514020@gmail.com**
 
+  <h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+
+
+
+  <h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
  
 <h3 align="left">Where to find me:</h3>
 
@@ -33,8 +42,7 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 <a href="https://instagram.com/https://www.instagram.com/muhammadzayed514030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammadzayed514030" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
 
 
 
