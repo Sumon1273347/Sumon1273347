@@ -7,7 +7,7 @@
 ![ alt text ](https://img.shields.io/badge/oracle-Reports-F80000?style=for-the-badge&logo=oracle)
 ![ alt text ](https://img.shields.io/badge/oracle-APEX-F80000?style=for-the-badge&logo=oracle)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon1273347&label=Profile%20views&color=0e75b6&style=flat" alt="sumon1273347" /> </p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Sumon Chowdhury</h1>
 <h3 align="center">Oracle Developer</h3>
 
@@ -19,6 +19,8 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devsouvik/master/gif3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon1273347&label=Profile%20views&color=0e75b6&style=flat" alt="sumon1273347" /> </p>
 
 - 🔭 I’m currently working on **IsDB-BISEW (As a Trainee)**
 - 🌱 I’m currently learning **Oracle Application Express (APEX)**
