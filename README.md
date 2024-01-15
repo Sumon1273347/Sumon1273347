@@ -14,9 +14,9 @@ I’m a Oracle developer who is passionate about making error-free web applicati
 Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Application Express
 
 - 🔭 I’m currently working on IsDB-BISEW (As a Trainee) 
-- 🌱 I’m currently learning Oracle Application Express 
+- 🌱 I’m currently learning Oracle Application Express (APEX)
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Application
+- 💬 Ask me about Oracle Web Application
 
  
 
