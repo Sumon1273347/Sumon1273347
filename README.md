@@ -20,9 +20,11 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 
  
 
-![](https://github-readme-stats.vercel.app/api?username=Sumon1273347&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sumon1273347&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon1273347&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Sumon1273347&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sumon1273347&theme=maroongold&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon1273347&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 Where to find me
