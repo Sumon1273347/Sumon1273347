@@ -17,8 +17,8 @@ I’m a Oracle developer who is passionate about making error-free web applicati
 
 Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Application Express
 
-![gif3-ezgif com-crop(1)](https://github.com/Sumon1273347/Sumon1273347/assets/146906768/0e2ac92d-dd4c-4277-a67c-e2076f92a63d)
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devsouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **IsDB-BISEW (As a Trainee)**
 - 🌱 I’m currently learning **Oracle Application Express (APEX)**
