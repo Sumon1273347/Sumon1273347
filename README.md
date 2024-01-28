@@ -34,7 +34,7 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 <h3 align="left">Languages:</h3>
  <p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p> 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
+
 
 
 
