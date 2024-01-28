@@ -22,6 +22,8 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon1273347&label=Profile%20views&color=0e75b6&style=flat" alt="sumon1273347" /> </p>
 
+
+
 - 🔭 I’m currently working on **IsDB-BISEW (As a Trainee)**
 - 🌱 I’m currently learning **Oracle Application Express (APEX)**
 - 👯 I’m looking to collaborate on **Software Company**
@@ -31,7 +33,8 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
  
 <h3 align="left">Where to find me:</h3>
 
@@ -42,16 +45,9 @@ Skills: Oracle (SQL & PL SQL / Forms & Reports / DBA Fundamental),  Oracle Appli
 </p>
 
 
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Sumon1273347&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sumon1273347&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon1273347&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=Sumon1273347&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sumon1273347&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumon1273347&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
