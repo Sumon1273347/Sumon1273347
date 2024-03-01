@@ -1,4 +1,4 @@
-![1646724093635](https://github.com/Sumon1273347/Sumon1273347/assets/146906768/debc7098-7823-443a-8c97-c0ade2eb4556)
+![1646724093635](https://github.com/Sumon1273347/Sumon1273347/blob/main/Images/Cover.png?raw=true)
 
 
 ![ alt text ](https://img.shields.io/badge/oracle-SQL-F80000?style=for-the-badge&logo=oracle)
