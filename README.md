@@ -8,7 +8,7 @@
 ![ alt text ](https://img.shields.io/badge/oracle-APEX-F80000?style=for-the-badge&logo=oracle)
 
 
-<h1 align="center">Hi 👋, I'm Md. Sumon Chowdhury</h1>
+<h1 align="center">Assalamualaikum 👋, I'm Md. Sumon Chowdhury</h1>
 <h3 align="center">Oracle Developer</h3>
 
 
